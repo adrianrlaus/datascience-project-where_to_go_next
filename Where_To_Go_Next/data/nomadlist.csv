@@ -1,0 +1,1333 @@
+City,Country,Internet Speed (Mbps),Nomad Cost ($ monthly),Fun (out of 5),Safety (out of 5),link
+Bangkok,Thailand,24,"1,522",4.0,4.0,bangkok
+Buenos Aires,Argentina,18,"1,028",4.0,2.68,buenos-aires
+Chiang Mai,Thailand,23,"1,126",4.0,4.09,chiang-mai
+Taipei,Taiwan,20,"2,120",3.0,5.0,taipei
+Canggu,Indonesia,20,"1,386",4.0,4.05,canggu
+Mexico City,Mexico,17,"1,506",4.0,2.5,mexico-city
+Barcelona,Spain,40,"2,860",5.0,4.0,barcelona
+Budapest,Hungary,43,"1,311",4.0,4.0,budapest
+Medellín,Colombia,13,"1,079",4.0,2.0,medellin
+Belgrade,Serbia,23,"1,458",4.0,4.0,belgrade
+Tokyo,Japan,24,"3,390",5.0,5.0,tokyo
+Phuket,Thailand,21,"1,733",3.0,4.0,phuket
+Lisbon,Portugal,26,"2,034",4.0,4.2,lisbon
+Prague,Czechia,26,"1,968",5.0,4.0,prague
+Sofia,Bulgaria,23,"1,278",4.0,3.5,sofia
+Istanbul,Turkey,11,"1,371",4.0,3.5,istanbul
+Berlin,Germany,29,"2,876",5.0,4.25,berlin
+Ho Chi Minh City,Vietnam,21,"1,031",4.5,3.5,ho-chi-minh-city
+Kuala Lumpur,Malaysia,16,"1,303",3.0,3.5,kuala-lumpur
+Singapore,Singapore,84,"2,904",4.0,5.0,singapore
+Madrid,Spain,31,"3,349",5.0,4.0,madrid
+Valencia,Spain,45,"2,280",4.0,4.5,valencia
+Da Nang,Vietnam,14,"1,027",3.0,3.5,da-nang
+Porto,Portugal,32,"1,898",3.9,4.2,porto
+Ubud,Indonesia,14,"1,918",3.0,4.5,ubud
+Tel Aviv,Israel,19,"4,317",4.5,4.28,tel-aviv
+Warsaw,Poland,30,"2,049",5.0,4.0,warsaw
+Kiev,Ukraine,27,"1,859",4.0,3.5,kiev
+Montreal,Canada,29,"2,271",4.0,4.0,montreal
+Vilnius,Lithuania,20,"1,991",5.0,3.5,vilnius
+Seoul,South Korea,18,"2,549",4.0,5.0,seoul
+Tbilisi,Georgia,14,"1,311",4.0,4.0,tbilisi
+Vienna,Austria,36,"2,935",3.0,3.77,vienna
+Athens,Greece,12,"2,686",5.0,4.5,athens
+New York City,United States,32,"4,945",5.0,3.5,new-york-city
+San Francisco,United States,49,"5,050",3.0,3.21,san-francisco
+Kraków,Poland,25,"1,729",5.0,4.0,krakow
+Saint Petersburg,Russia,14,"1,607",4.0,2.75,saint-petersburg
+Zagreb,Croatia,20,"1,920",3.0,4.5,zagreb
+Moscow,Russia,13,"2,335",5.0,2.5,moscow
+Shanghai,China,2,"1,959",5.0,4.5,shanghai
+Vancouver,Canada,28,"3,066",3.0,4.0,vancouver
+Sarajevo,Bosnia,11,"1,235",2.0,3.5,sarajevo
+Ko Tao,Thailand,18,"1,557",3.0,4.18,ko-tao
+Antalya,Turkey,11,"1,072",5.0,4.0,antalya
+London,United Kingdom,18,"4,073",5.0,4.0,london
+Cancun,Mexico,14,"1,128",5.0,3.0,cancun
+Hanoi,Vietnam,8,"1,020",3.0,3.5,hanoi
+Santiago,Chile,20,"1,453",2.0,3.5,santiago
+Paris,France,25,"4,084",4.0,3.5,paris
+Arequipa,Peru,7,965,3.0,3.0,arequipa
+Toronto,Canada,32,"3,019",3.5,3.5,toronto
+Amsterdam,Netherlands,23,"4,943",4.0,4.4,amsterdam
+Bucharest,Romania,56,"1,579",3.5,3.5,bucharest
+Lima,Peru,9,"1,177",4.0,3.05,lima
+Beirut,Lebanon,2,"1,751",5.0,3.5,beirut
+Tunis,Tunisia,6,"1,053",5.0,3.66,tunis
+Bansko,Bulgaria,21,"1,478",5.0,4.0,bansko
+Chiang Rai,Thailand,22,"1,082",4.0,4.18,chiang-rai
+Tenerife,Spain,24,"1,959",5.0,4.5,tenerife
+Busan,South Korea,24,"2,048",4.0,5.0,busan
+Cape Town,South Africa,8,"1,862",4.0,2.5,cape-town
+Kaohsiung,Taiwan,25,"1,049",2.0,4.05,kaohsiung
+Havana,Cuba,5,"1,500",5.0,4.0,havana
+Hoi An,Vietnam,11,"1,055",4.0,3.5,hoi-an
+Timisoara,Romania,38,"1,296",4.0,4.0,timisoara
+Wellington,New Zealand,21,"2,598",3.0,4.5,wellington
+Ko Samui,Thailand,17,"1,768",4.0,4.18,ko-samui
+Funchal,Portugal,25,"1,808",3.0,4.6,funchal
+São Paulo,Brazil,14,"1,623",5.0,1.75,sao-paulo
+Christchurch,New Zealand,22,"2,287",4.0,4.25,christchurch
+Izmir,Turkey,11,792,4.0,4.0,izmir
+Salta,Argentina,10,707,4.0,2.96,salta
+Ponta Delgada,Portugal,27,"2,040",5.0,4.6,ponta-delgada
+Los Angeles,United States,29,"4,482",5.0,3.23,los-angeles
+Jeju Island,South Korea,17,"1,750",4.0,4.0,jeju-island
+Pattaya,Thailand,40,"1,474",4.0,3.84,pattaya
+Cluj,Romania,35,"1,604",4.0,3.5,cluj
+Playa del Carmen,Mexico,9,"1,436",5.0,2.25,playa-del-carmen
+Las Palmas,Spain,28,"2,620",4.0,4.5,las-palmas
+Novi Sad,Serbia,27,"1,432",2.5,3.5,novi-sad
+Gaziantep,Turkey,10,"1,018",3.0,4.0,gaziantep
+Udon Thani,Thailand,18,976,3.0,4.09,udon-thani
+Puerto Vallarta,Mexico,22,"1,791",4.0,3.0,puerto-vallarta
+Montevideo,Uruguay,13,"1,707",3.0,3.0,montevideo
+Antigua,Guatemala,4,"1,192",5.0,2.34,antigua
+Da Lat,Vietnam,10,882,3.0,3.5,da-lat
+Oaxaca,Mexico,13,"1,176",3.0,3.0,oaxaca
+Dakar,Senegal,4,"1,414",5.0,3.0,dakar
+Haikou,China,2,"1,569",5.0,4.43,haikou
+Ko Pha Ngan,Thailand,18,"1,284",3.0,4.09,ko-pha-ngan
+Minsk,Belarus,29,"1,195",3.0,3.81,minsk
+Queretaro,Mexico,9,"1,012",4.0,3.0,queretaro
+Brasov,Romania,29,"1,437",2.5,3.5,brasov
+Gdansk,Poland,23,"1,783",4.0,5.0,gdansk
+Melbourne,Australia,13,"3,013",5.0,3.65,melbourne
+La Paz,Bolivia,4,971,3.0,2.63,la-paz
+Guadalajara,Mexico,19,"1,165",3.0,2.5,guadalajara
+Nha Trang,Vietnam,12,646,4.0,3.5,nha-trang
+Alanya,Turkey,11,"1,142",3.0,3.5,alanya
+Auckland,New Zealand,21,"3,013",3.0,5.0,auckland
+Las Vegas,United States,38,"2,913",5.0,3.0,las-vegas
+Natal,Brazil,9,967,4.0,2.0,natal
+Alicante,Spain,27,"2,137",4.0,4.5,alicante
+Cairo,Egypt,4,941,3.0,3.5,cairo
+Siem Reap,Cambodia,7,"1,028",3.0,3.38,siem-reap
+Constanta,Romania,38,"1,312",5.0,3.5,constanta
+Casablanca,Morocco,6,"1,559",4.0,3.85,casablanca
+Adana,Turkey,11,964,4.0,3.5,adana
+Lviv,Ukraine,21,"1,035",4.0,3.5,lviv
+Guangzhou,China,2,"1,486",4.0,4.0,guangzhou
+Luxor,Egypt,8,763,4.0,3.0,luxor
+Jimbaran,Indonesia,10,762,4.0,4.28,jimbaran
+Nakhon Ratchasima,Thailand,51,"1,132",3.0,4.34,nakhon-ratchasima
+Luang Prabang,Laos,2,"1,216",4.0,3.5,luang-prabang
+Florianopolis,Brazil,8,"1,443",5.0,2.0,florianopolis
+George Town,Malaysia,13,"1,025",3.0,3.64,george-town
+Tallinn,Estonia,22,"2,255",3.0,4.0,tallinn
+Quebec City,Canada,22,"1,834",3.0,4.0,quebec-city
+Toulouse,France,24,"2,218",4.0,3.75,toulouse
+Ljubljana,Slovenia,33,"1,985",3.0,4.0,ljubljana
+Marrakesh,Morocco,9,"1,941",5.0,3.68,marrakesh
+Batumi,Georgia,9,"1,205",4.0,3.73,batumi
+Nairobi,Kenya,9,"1,299",3.0,2.5,nairobi
+Ko Chang,Thailand,18,"1,340",3.0,4.18,ko-chang
+Ko Lanta,Thailand,18,"1,466",3.0,4.18,ko-lanta
+Pokhara,Nepal,5,686,5.0,3.67,pokhara
+Giza,Egypt,6,"1,102",3.0,3.5,giza
+San Miguel de Allende,Mexico,16,"1,592",3.0,3.24,san-miguel-de-allende
+Rio de Janeiro,Brazil,8,"1,982",5.0,1.5,rio-de-janeiro
+Hermosillo,Mexico,13,"1,066",3.0,3.0,hermosillo
+Varna,Bulgaria,22,"1,250",3.0,4.0,varna
+Seminyak,Indonesia,3,939,4.0,4.05,seminyak
+Tirana,Albania,8,"1,175",2.0,3.5,tirana
+La Paz,Mexico,13,"1,064",4.0,2.99,la-paz-mexico
+Sliema,Malta,25,"2,537",4.0,4.5,sliema
+Taghazout,Morocco,6,"1,164",3.0,4.0,taghazout
+Cartagena,Colombia,9,"1,572",5.0,2.5,cartagena
+Goa,India,7,"1,333",5.0,3.95,goa
+Cozumel,Mexico,11,"1,395",4.0,3.0,cozumel
+Colombo,Sri Lanka,7,968,4.0,4.0,colombo
+Mendoza,Argentina,8,"1,187",2.0,2.59,mendoza
+Manama,Bahrain,6,"2,261",4.0,5.0,manama
+Kharkiv,Ukraine,25,977,2.0,3.0,kharkiv
+Brno,Czechia,20,"1,521",3.0,4.5,brno
+Shantou,China,2,869,3.0,4.18,shantou
+Mui Ne,Vietnam,9,871,3.0,3.3,mui-ne
+Matara,Sri Lanka,8,604,4.0,3.54,matara
+Ko Phi Phi,Thailand,18,"1,296",3.0,4.09,ko-phi-phi
+Braga,Portugal,25,"1,657",2.5,4.5,braga
+Zurich,Switzerland,28,"5,103",4.0,3.85,zurich
+Krabi,Thailand,20,"1,385",3.0,3.5,krabi
+Seattle,United States,31,"3,943",3.0,3.68,seattle
+Galle,Sri Lanka,8,"1,309",5.0,3.54,galle
+La Plata,Argentina,11,"1,222",5.0,2.68,la-plata
+Davao,Philippines,6,"1,088",4.0,3.83,davao
+Yogyakarta,Indonesia,60,823,2.0,4.05,yogyakarta
+Kuching,Malaysia,12,902,3.0,4.0,kuching
+El Gouna,Egypt,6,"2,770",5.0,4.5,el-gouna
+Sydney,Australia,18,"3,592",3.0,4.5,sydney
+Bratislava,Slovakia,22,"1,635",3.0,4.5,bratislava
+Palawan,Philippines,7,"1,358",5.0,3.5,palawan
+Daejeon,South Korea,24,"1,878",3.0,5.0,daejeon
+Chisinau,Moldova,11,"1,246",3.0,3.33,chisinau
+Osaka,Japan,21,"2,573",3.0,4.5,osaka
+Tsushima Island,Japan,24,"1,846",5.0,4.06,tsushima-island
+Kota Kinabalu,Malaysia,12,808,4.0,4.0,kota-kinabalu
+Corralejo,Spain,41,"2,354",5.0,3.98,corralejo
+Daegu,South Korea,20,"2,329",3.0,5.0,daegu
+San José,Costa Rica,5,"1,786",3.0,2.42,san-jose-costa-rica
+Xi An,China,2,703,3.0,4.18,xi-an
+Fortaleza,Brazil,15,"1,175",4.0,2.0,fortaleza
+Puebla,Mexico,9,"1,149",3.0,3.48,puebla
+Miami,United States,24,"4,032",5.0,3.38,miami
+Aveiro,Portugal,25,"2,325",5.0,4.5,aveiro
+Kigali,Rwanda,2,"1,514",3.0,3.5,kigali
+Merida,Mexico,9,"1,162",3.0,3.48,merida
+Portland,United States,30,"3,381",5.0,3.76,portland
+Kathmandu,Nepal,4,688,5.0,3.6,kathmandu
+Port Said,Egypt,6,"1,091",2.0,3.5,port-said
+Cebu,Philippines,6,"1,442",4.0,3.5,cebu
+Willemstad,Curaçao,14,"2,149",5.0,3.0,willemstad
+Aguascalientes,Mexico,9,"1,170",2.0,3.48,aguascalientes
+Phnom Penh,Cambodia,6,"1,304",3.0,3.0,phnom-penh
+Rosario,Argentina,10,"1,014",3.0,2.59,rosario
+Male,Maldives,3,"1,222",5.0,3.5,male
+Cuenca,Ecuador,6,"1,467",4.0,3.3,cuenca
+Makati,Philippines,7,"1,881",5.0,3.66,makati
+El Jadida,Morocco,7,"1,363",3.0,3.93,el-jadida
+Palma,Spain,27,"2,997",5.0,4.5,palma
+Cirebon,Indonesia,9,782,3.0,4.03,cirebon
+Abbotsford,Canada,22,"2,373",4.0,3.5,abbotsford
+Cordoba,Argentina,10,"1,598",3.0,3.0,cordoba
+Limassol,Cyprus,11,"2,915",5.0,3.73,limassol
+Plovdiv,Bulgaria,28,"1,336",3.0,4.0,plovdiv
+Nanjing,China,2,"1,075",4.0,4.18,nanjing
+Bodrum,Turkey,11,996,2.0,3.5,bodrum
+Dunedin,New Zealand,20,"2,978",3.0,3.79,dunedin
+Cologne,Germany,30,"2,562",4.0,4.5,cologne
+Recife,Brazil,9,"1,206",5.0,1.5,recife
+Dahab,Egypt,7,874,1.0,3.5,dahab
+Taichung,Taiwan,20,"1,344",2.0,3.8,taichung
+Malang,Indonesia,8,"1,020",3.0,3.78,malang
+Porto Alegre,Brazil,9,"1,109",5.0,1.88,porto-alegre
+Puerto Escondido,Mexico,22,"1,423",3.5,2.5,puerto-escondido
+Munich,Germany,27,"3,890",5.0,4.5,munich
+Yangon,Myanmar,7,"1,013",5.0,3.5,yangon
+Sanur,Indonesia,12,774,3.0,4.05,sanur
+Rishikesh,India,5,879,2.0,3.95,rishikesh
+Asuncion,Paraguay,4,"1,327",3.0,3.0,asuncion
+Ao Nang,Thailand,18,"1,383",3.0,3.84,ao-nang
+Hue,Vietnam,10,"1,028",3.0,3.3,hue
+Malacca,Malaysia,15,810,3.0,3.28,malacca
+Bandung,Indonesia,9,803,3.0,4.05,bandung
+Kingston,Jamaica,12,"1,929",5.0,2.25,kingston
+Agadir,Morocco,7,"1,284",3.0,3.68,agadir
+Langkawi,Malaysia,13,"1,407",3.0,3.39,langkawi
+Mar del Plata,Argentina,11,"1,234",4.0,2.59,mar-del-plata
+Sihanoukville,Cambodia,8,"1,084",3.0,3.38,sihanoukville
+Atlanta,United States,28,"2,832",4.0,3.5,atlanta
+Mysore,India,7,847,3.0,3.95,mysore
+Rijeka,Croatia,16,"1,271",2.0,3.74,rijeka
+Bari,Italy,19,"1,908",3.13,4.04,bari
+Chengdu,China,2,936,3.0,4.5,chengdu
+Gili Air,Indonesia,9,"1,107",2.0,4.05,gili-air
+Chongqing,China,2,777,3.0,4.0,chongqing
+Paphos,Cyprus,9,"2,390",4.0,3.5,paphos
+Kandy,Sri Lanka,7,"1,052",4.0,3.54,kandy
+Rajkot,India,5,891,3.0,3.95,rajkot
+Krasnodar,Russia,14,"1,318",2.0,3.0,krasnodar
+Austin,United States,66,"3,420",5.0,3.8,austin
+Tartu,Estonia,25,"1,979",2.0,4.5,tartu
+Perth,Australia,20,"3,432",3.0,3.9,perth
+Boston,United States,44,"3,885",4.0,3.97,boston
+Curitiba,Brazil,9,"1,130",3.0,2.4,curitiba
+Makassar,Indonesia,8,776,3.0,4.0,makassar
+Podgorica,Montenegro,17,"1,402",3.0,3.5,podgorica
+Puerto del Rosario,Spain,54,"2,317",4.0,3.86,puerto-del-rosario
+Cali,Colombia,9,"1,064",3.0,1.0,cali
+Phu Quoc,Vietnam,5,"1,049",4.0,3.51,phu-quoc
+Tainan,Taiwan,16,"1,949",4.0,4.25,tainan
+Qingdao,China,2,"1,374",3.0,4.0,qingdao
+Fes,Morocco,7,"1,543",4.0,3.68,fes
+Honolulu,United States,35,"4,176",5.0,3.86,honolulu
+Nice,France,24,"2,958",5.0,4.0,nice
+Kitakyushu,Japan,21,"2,052",3.0,4.06,kitakyushu
+Nagoya,Japan,23,"2,616",4.0,4.06,nagoya
+Yangshuo,China,2,"1,148",4.0,4.43,yangshuo
+Dushanbe,Tajikistan,2,742,3.0,3.0,dushanbe
+Manila,Philippines,8,"1,399",2.0,3.0,manila
+Johor Bahru,Malaysia,15,863,2.0,3.28,johor-bahru
+Hua Hin,Thailand,21,"1,496",1.5,4.0,hua-hin
+Belo Horizonte,Brazil,10,"1,048",2.0,1.7,belo-horizonte
+Kinmen,Taiwan,24,"1,978",3.0,3.55,kinmen
+Mancora,Peru,14,"1,142",2.0,3.28,mancora
+Gwangju,South Korea,18,"2,043",3.0,3.0,gwangju
+Ciutadella,Spain,28,"2,615",5.0,3.73,ciutadella
+Hobart,Australia,13,"2,752",3.0,3.65,hobart
+Pretoria,South Africa,7,"1,665",4.0,2.0,pretoria
+Mamaia,Romania,50,"1,458",3.0,3.36,mamaia
+Chachapoyas,Peru,10,997,1.0,3.63,chachapoyas
+Nis,Serbia,32,"1,187",3.0,4.0,nis
+Santa Cruz,Bolivia,4,"1,168",5.0,2.56,santa-cruz
+Yerevan,Armenia,8,"1,216",4.0,4.0,yerevan
+Ibiza,Spain,45,"3,722",5.0,3.73,ibiza
+Isla Mujeres,Mexico,22,"2,039",3.0,2.77,isla-mujeres
+Katowice,Poland,26,"1,256",3.0,3.45,katowice
+Krivoy-Rog,Ukraine,18,898,2.0,3.0,krivoy-rog
+Split,Croatia,14,"2,489",3.0,4.0,split
+Wuhan,China,2,"1,020",3.0,4.5,wuhan
+Quanzhou,China,2,"1,458",3.0,4.18,quanzhou
+Pai,Thailand,17,"1,857",2.0,4.09,pai
+Bucaramanga,Colombia,7,801,3.0,2.0,bucaramanga
+Hamamatsu,Japan,27,"2,484",4.0,4.06,hamamatsu
+Saratov,Russia,14,"1,094",3.0,2.0,saratov
+Uluwatu,Indonesia,9,"1,362",3.0,4.28,uluwatu
+San Luis Potosi,Mexico,8,"1,101",2.0,2.74,san-luis-potosi
+Macau,China,5,"2,342",5.0,4.0,macau
+Dubai,United Arab Emirates,12,"3,560",3.0,4.5,dubai
+San Diego,United States,48,"3,804",4.0,3.72,san-diego
+Osijek,Croatia,15,"1,142",2.0,4.0,osijek
+Praia,Cape Verde,9,"2,253",4.0,3.0,praia
+Marbella,Spain,34,"2,650",4.0,3.98,marbella
+Edinburgh,United Kingdom,22,"3,192",3.0,5.0,edinburgh
+Novocherkassk,Russia,15,"1,085",2.0,2.15,novocherkassk
+Brasilia,Brazil,12,"1,492",3.0,2.4,brasilia
+Adelaide,Australia,11,"2,789",2.0,3.9,adelaide
+Fuzhou,China,2,"1,374",2.0,3.93,fuzhou
+Barranquilla,Colombia,8,"1,004",3.0,1.5,barranquilla
+Poznan,Poland,23,"1,493",3.0,4.0,poznan
+Glasgow,United Kingdom,20,"2,846",4.0,3.5,glasgow
+Sao Luis,Brazil,9,"1,188",3.0,1.95,sao-luis
+Gold Coast,Australia,11,"2,819",3.0,3.4,gold-coast
+Torreon,Mexico,16,"1,415",3.0,1.91,torreon
+Gothenburg,Sweden,35,"2,891",5.0,4.0,gothenburg
+Lublin,Poland,23,"1,357",3.0,3.75,lublin
+Genoa,Italy,16,"2,415",4.0,3.93,genoa
+Thessaloniki,Greece,12,"1,833",3.0,4.5,thessaloniki
+La Serena,Chile,11,"1,694",0.0,3.0,la-serena
+Malaga,Spain,28,"2,257",3.0,3.73,malaga
+Ahvaz,Iran,3,959,1.0,4.38,ahvaz
+Alexandria,Egypt,3,"1,478",4.0,2.97,alexandria
+Shenzhen,China,2,"1,764",2.0,4.0,shenzhen
+Ploiesti,Romania,31,"1,330",2.0,3.5,ploiesti
+Mataram,Indonesia,9,920,2.0,3.78,mataram
+Paramaribo,Suriname,4,"1,123",4.0,2.0,paramaribo
+Cavtat,Croatia,16,"1,864",4.0,3.49,cavtat
+Skopje,Macedonia,10,"1,255",3.0,3.5,skopje
+Birmingham,United States,35,"2,371",3.0,3.61,birmingham-al
+Pisa,Italy,16,"2,396",4.0,4.5,pisa
+Stockholm,Sweden,39,"3,512",4.0,4.5,stockholm
+Quito,Ecuador,7,"1,067",3.0,3.15,quito
+Bar,Montenegro,20,"1,417",3.0,3.5,bar
+Lake Balaton,Hungary,61,"1,422",4.0,3.03,lake-balaton
+Ivano-Frankivsk,Ukraine,23,925,2.0,3.5,ivano-frankivsk
+Dresden,Germany,31,"2,295",3.0,3.91,dresden
+Montanita,Ecuador,16,"1,262",3.0,3.15,montanita
+Xiamen,China,2,"1,409",2.0,4.18,xiamen
+Suwon,South Korea,18,"2,374",3.0,3.43,suwon
+Baku,Azerbaijan,6,"1,111",3.0,4.0,baku
+Trento,Italy,17,"2,836",4.0,4.5,trento
+Zadar,Croatia,17,"1,591",2.0,3.74,zadar
+Nagpur,India,6,918,4.0,3.95,nagpur
+Iasi,Romania,38,"1,353",3.0,3.5,iasi
+Odessa,Ukraine,40,"1,326",2.0,3.5,odessa
+Riga,Latvia,19,"1,943",3.0,3.5,riga
+Salvador,Brazil,9,"1,350",3.0,1.95,salvador
+Bursa,Turkey,11,918,3.0,3.5,bursa
+Amman,Jordan,8,"1,286",3.0,3.95,amman
+Washington,United States,35,"4,334",4.0,4.0,washington
+Guanajuato,Mexico,13,"1,433",3.0,2.77,guanajuato
+Salt Lake City,United States,37,"2,851",3.0,3.18,salt-lake-city
+San Pedro de Atacama,Chile,25,"1,904",2.0,3.34,san-pedro-de-atacama
+Salento,Colombia,8,"1,222",3.0,2.5,salento
+Kochi,India,7,703,2.0,3.95,kochi
+Krasnoyarsk,Russia,14,"1,952",4.0,3.0,krasnoyarsk
+Hong Kong,Hong Kong,70,"2,407",5.0,2.0,hong-kong
+Jodhpur,India,6,"1,085",5.0,3.83,jodhpur
+Winnipeg,Canada,21,"2,261",3.0,3.0,winnipeg
+Rome,Italy,16,"3,667",5.0,4.07,rome
+Essaouira,Morocco,6,"1,719",0.0,3.68,essaouira
+Lodz,Poland,30,"1,701",4.0,4.0,lodz
+Hilo,United States,40,"3,492",4.0,3.86,hilo
+Chennai,India,10,686,2.0,4.2,chennai
+Port Elizabeth,South Africa,7,"1,714",3.0,2.65,port-elizabeth
+Arrecife,Spain,20,"2,436",3.0,3.73,arrecife
+Edmonton,Canada,23,"2,277",2.0,3.5,edmonton
+Brisbane,Australia,19,"3,129",2.0,4.5,brisbane
+Calgary,Canada,21,"2,820",3.0,3.5,calgary
+Boulder,United States,62,"3,877",4.0,4.0,boulder
+Okinawa City,Japan,55,"2,756",5.0,4.06,okinawa-city
+Campo Grande,Brazil,10,"1,289",3.0,2.4,campo-grande
+Panajachel,Guatemala,4,"1,359",4.0,1.88,panajachel
+Copenhagen,Denmark,39,"4,419",3.5,4.5,copenhagen
+Frankfurt,Germany,18,"2,724",4.0,4.5,frankfurt
+Ushuaia,Argentina,8,"1,383",4.0,3.09,ushuaia
+Kosice,Slovakia,25,"1,654",4.0,4.0,kosice
+Santo Domingo,Dominican Republic,8,"1,659",5.0,2.25,santo-domingo
+Ko Lipe,Thailand,18,"1,869",3.0,3.84,ko-lipe
+Tangier,Morocco,7,"1,512",3.0,3.68,tangier
+Banja Luka,Bosnia,7,"1,262",2.0,3.5,banja-luka
+Sorocaba,Brazil,9,"1,126",3.0,2.4,sorocaba
+Visakhapatnam,India,8,"1,407",3.0,3.95,visakhapatnam
+New Orleans,United States,40,"3,323",4.0,3.06,new-orleans
+Ottawa,Canada,26,"2,206",3.0,4.5,ottawa
+Lethbridge,Canada,22,"3,405",5.0,3.34,lethbridge
+Sa Pa,Vietnam,7,952,4.0,3.51,sa-pa
+San Cristóbal de las Casas,Mexico,22,"1,259",3.0,2.77,san-cristobal-de-las-casas
+Medan,Indonesia,8,732,3.0,3.85,medan
+Surakarta,Indonesia,6,671,2.0,4.05,surakarta
+Queenstown,New Zealand,28,"4,099",4.0,3.54,queenstown
+San Juan del Sur,Nicaragua,6,"1,607",4.0,2.0,san-juan-del-sur
+Antananarivo,Madagascar,11,"1,114",2.0,4.5,antananarivo
+Malappuram,India,7,719,3.0,3.95,malappuram
+Denpasar,Indonesia,15,706,1.0,4.05,denpasar
+Burgas,Bulgaria,28,"1,832",2.0,3.5,burgas
+Goiania,Brazil,8,"1,031",2.0,2.0,goiania
+Ipoh,Malaysia,12,"1,175",3.0,3.14,ipoh
+Khulna,Bangladesh,5,"1,396",4.0,4.2,khulna
+General Santos,Philippines,7,"1,048",3.0,3.41,general-santos
+Monterrey,Mexico,15,"1,428",3.0,0.99,monterrey
+Kozhikode,India,7,"1,079",3.0,3.95,kozhikode
+Bocas del Toro,Panama,9,"2,347",5.0,2.5,bocas-del-toro
+Yichang,China,2,"1,163",2.0,4.18,yichang
+Cochabamba,Bolivia,3,"2,809",3.0,3.0,cochabamba
+Jarabacoa,Dominican Republic,10,"2,021",3.0,2.64,jarabacoa
+Abu Dhabi,United Arab Emirates,9,"3,928",5.0,4.5,abu-dhabi
+Kansas City,United States,69,"2,653",4.0,3.23,kansas-city
+Seville,Spain,24,"2,273",3.0,5.0,seville
+Graz,Austria,20,"2,549",3.0,3.55,graz
+Campinas,Brazil,9,"1,309",3.0,2.0,campinas
+Guatemala City,Guatemala,6,"1,182",3.0,1.5,guatemala-city
+Sharjah,United Arab Emirates,9,"2,189",2.0,4.5,sharjah
+Riyadh,Saudi Arabia,10,"2,143",2.0,4.0,riyadh
+Toluca,Mexico,13,"1,018",3.0,2.5,toluca
+Cabo San Lucas,Mexico,20,"2,275",3.0,2.77,cabo-san-lucas
+Craiova,Romania,29,"1,285",2.0,2.73,craiova
+Belem,Brazil,8,"1,477",4.0,2.0,belem
+Helsinki,Finland,30,"3,671",4.0,3.33,helsinki
+Suzhou,China,2,"1,271",3.0,4.18,suzhou
+Douala,Cameroon,2,"1,359",4.0,3.0,douala
+Medford,United States,37,"2,636",3.0,3.61,medford
+Foshan,China,2,"1,208",3.0,4.18,foshan
+La Union,Philippines,6,"1,772",4.0,3.41,la-union
+Port Louis,Mauritius,4,"2,065",4.0,3.5,port-louis
+Yokohama,Japan,21,"3,853",4.0,5.0,yokohama
+Iquique,Chile,14,"1,682",2.0,3.34,iquique
+Dubrovnik,Croatia,17,"2,309",3.0,3.74,dubrovnik
+Thane,India,7,916,4.0,3.95,thane
+Saskatoon,Canada,22,"2,312",3.0,3.34,saskatoon
+Banff,Canada,46,"2,563",3.0,3.14,banff
+Portimão,Portugal,24,"2,224",3.0,4.35,portimao
+Xiangyang,China,2,"1,279",2.0,4.18,xiangyang
+Constantine,Algeria,2,"1,457",3.0,3.0,constantine
+San Antonio,United States,42,"2,603",3.0,3.34,san-antonio
+Granada,Spain,22,"2,638",3.0,4.0,granada
+Palermo,Italy,19,"2,192",3.0,4.0,palermo
+Tampa,United States,49,"2,965",3.0,3.77,tampa
+Aachen,Germany,43,"2,373",3.0,3.66,aachen
+Raipur,India,7,"1,116",4.0,3.83,raipur
+Cixi,China,2,"1,288",3.0,4.18,cixi
+Avellino,Italy,16,"1,543",2.0,3.68,avellino
+Fukuoka,Japan,27,"2,851",4.5,4.06,fukuoka
+Surrey,Canada,22,"2,326",3.0,3.0,surrey
+Senggigi,Indonesia,8,628,2.0,3.78,senggigi
+Ahmedabad,India,6,624,4.0,4.2,ahmedabad
+Kotor,Montenegro,17,"1,876",3.0,3.59,kotor
+Tabriz,Iran,3,836,1.0,4.38,tabriz
+Baguio,Philippines,6,"1,463",4.0,3.41,baguio
+Pekanbaru,Indonesia,10,785,3.0,4.05,pekanbaru
+Nantes,France,24,"2,313",3.0,3.75,nantes
+Jakarta,Indonesia,10,"1,245",2.0,4.03,jakarta
+Fort Lauderdale,United States,28,"3,775",4.0,3.38,fort-lauderdale
+Liberia,Costa Rica,6,"1,370",3.0,2.21,liberia
+Thrissur,India,5,"1,148",4.0,3.95,thrissur
+Pittsburgh,United States,50,"2,443",4.0,4.02,pittsburgh
+Jundiaí,Brazil,9,"1,189",3.0,1.5,jundiai
+Managua,Nicaragua,6,"1,261",2.0,2.0,managua
+Marseille,France,27,"2,972",3.0,3.0,marseille
+Dallas,United States,56,"2,772",4.0,3.78,dallas
+Chittagong,Bangladesh,5,"1,227",3.0,3.5,chittagong
+Zhoukou,China,2,706,3.0,4.18,zhoukou
+Huizhou,China,2,"1,126",2.0,4.18,huizhou
+Galapagos Islands,Ecuador,16,"2,340",3.0,3.15,galapagos-islands
+Ogden,United States,56,"2,693",2.0,4.07,ogden
+Vang Vieng,Laos,2,"1,083",2.5,3.0,vang-vieng
+Nashville,United States,40,"3,288",4.0,3.04,nashville
+Javea,Spain,28,"3,600",3.0,4.5,javea
+Dnipro,Ukraine,25,"1,199",1.0,3.0,dnipro
+Padova,Italy,14,"2,301",4.0,4.5,padova
+Uberlandia,Brazil,9,"1,301",2.0,2.4,uberlandia
+Changzhou,China,2,"1,277",3.0,4.18,changzhou
+San Sebastian,Spain,27,"3,126",4.0,3.86,san-sebastian
+Dongguan,China,2,"1,469",2.0,3.93,dongguan
+Chico,United States,64,"2,959",3.0,3.2,chico
+Vadodara,India,7,841,4.0,3.95,vadodara
+Shiraz,Iran,3,918,2.0,4.19,shiraz
+Bilbao,Spain,34,"3,175",3.0,4.0,bilbao
+Kaunas,Lithuania,24,"1,874",3.0,3.0,kaunas
+Chandigarh,India,6,"1,190",3.0,4.2,chandigarh
+Ranchi,India,5,"1,054",2.0,3.95,ranchi
+Kyoto,Japan,26,"3,645",5.0,4.06,kyoto
+Milan,Italy,23,"4,080",3.0,4.5,milan
+Bogota,Colombia,7,"1,123",3.0,1.0,bogota
+Putian,China,2,"1,565",2.0,4.18,putian
+Liverpool,United Kingdom,22,"2,697",4.0,4.19,liverpool
+Bordeaux,France,19,"2,890",3.0,4.5,bordeaux
+Valparaíso,Chile,11,"1,696",2.0,3.25,valparaiso
+Kobe,Japan,24,"2,913",5.0,4.06,kobe
+Malmö,Sweden,48,"2,672",4.0,3.25,malmo
+Samara,Russia,13,"1,037",2.0,2.0,samara
+Addis Ababa,Ethiopia,1,839,3.0,2.5,addis-ababa
+Almaty,Kazakhstan,6,"1,379",3.0,3.13,almaty
+Guayaquil,Ecuador,4,"1,279",3.0,3.3,guayaquil
+Yekaterinburg,Russia,14,"1,914",3.0,2.5,yekaterinburg
+Madurai,India,6,"1,379",3.0,3.95,madurai
+Cairns,Australia,14,"2,598",2.0,3.65,cairns
+Port of Spain,Trinidad and Tobago,13,"1,885",4.0,1.5,port-of-spain
+Muscat,Oman,6,"2,138",4.0,3.49,muscat
+Naha,Japan,21,"2,670",3.25,4.38,naha
+Dublin,Ireland,58,"3,681",3.0,4.5,dublin
+Palembang,Indonesia,8,940,3.0,3.78,palembang
+Dalian,China,2,"1,604",3.0,3.93,dalian
+Wonsan,North Korea,1,"1,790",5.0,3.0,wonsan
+Zhangzhou,China,2,"1,337",2.0,4.18,zhangzhou
+Vasai,India,7,747,2.0,3.95,vasai
+Wrocław,Poland,23,"1,996",3.5,4.0,wroclaw
+Gwalior,India,5,856,3.0,3.83,gwalior
+Rabat,Morocco,7,"2,126",4.0,3.68,rabat
+Viña del Mar,Chile,12,"1,872",2.0,3.34,vina-del-mar
+Monaco,Monaco,45,"6,775",5.0,5.0,monaco
+Antofagasta,Chile,9,"1,567",2.0,3.34,antofagasta
+Semarang,Indonesia,8,868,2.0,3.78,semarang
+Tampere,Finland,27,"2,813",4.0,3.33,tampere
+Cusco,Peru,8,"1,503",1.0,3.31,cusco
+Siargao,Philippines,7,"1,933",4.0,3.41,siargao
+Ankara,Turkey,11,806,2.0,4.0,ankara
+Raleigh,United States,47,"3,146",3.0,3.5,raleigh
+Szczecin,Poland,23,"1,498",2.0,4.0,szczecin
+Zhengzhou,China,2,"1,011",3.0,3.93,zhengzhou
+Ulaanbaatar,Mongolia,3,916,3.0,3.25,ulaanbaatar
+Bristol,United Kingdom,22,"4,015",5.0,4.1,bristol
+Xiangtan,China,2,"1,207",2.0,4.18,xiangtan
+Doha,Qatar,11,"2,743",4.0,3.5,doha
+Jacksonville,United States,33,"2,504",4.0,3.28,jacksonville
+Guiyang,China,2,898,2.0,4.18,guiyang
+Thiruvananthapuram,India,4,896,3.0,3.95,thiruvananthapuram
+Changsha,China,2,"1,433",2.0,3.93,changsha
+Cannes,France,28,"3,762",5.0,3.95,cannes
+Delhi,India,7,"1,105",3.0,3.83,delhi
+Nanchang,China,2,863,2.0,4.18,nanchang
+Manchester,United Kingdom,22,"3,181",4.0,4.0,manchester
+Grande Prairie,Canada,21,"2,652",3.0,3.09,grande-prairie
+Zhanjiang,China,2,"1,162",2.0,4.18,zhanjiang
+Hefei,China,2,"1,160",2.0,4.18,hefei
+Kollam,India,6,790,3.0,3.95,kollam
+Stuttgart,Germany,31,"2,836",4.0,3.0,stuttgart
+Denver,United States,48,"3,352",3.0,3.45,denver
+St. Catharines,Canada,22,"2,055",2.0,3.34,st-catharines
+Reykjavik,Iceland,26,"3,806",3.0,4.25,reykjavik
+Phoenix,United States,31,"2,800",3.0,3.28,phoenix
+Treviso,Italy,16,"2,544",4.0,4.0,treviso
+Astana,Kazakhstan,10,"1,383",2.0,3.13,astana
+Durban,South Africa,7,"2,107",3.0,2.15,durban
+Florence,Italy,16,"3,089",5.0,3.01,florence
+McLeod Ganj,India,18,977,2.0,3.95,mcleod-ganj
+Key West,United States,33,"7,789",5.0,3.61,key-west
+Tirupur,India,9,511,1.0,3.95,tirupur
+Suva,Fiji,4,"1,787",3.0,4.0,suva
+Redding,United States,28,"2,942",3.0,2.82,redding
+Mumbai,India,12,"1,221",3.0,3.95,mumbai
+Lagos,Nigeria,4,"1,528",3.0,2.5,lagos
+Joao Pessoa,Brazil,8,"1,265",2.0,2.0,joao-pessoa
+Georgetown,Guyana,4,"1,086",3.0,2.0,georgetown
+Bern,Switzerland,49,"4,131",4.0,5.0,bern
+Hubli,India,6,891,3.0,3.95,hubli
+A Coruna,Spain,28,"2,861",3.0,4.5,a-coruna
+Santa Rosa,United States,29,"2,836",3.0,3.62,santa-rosa
+Grenoble,France,24,"2,868",3.0,3.45,grenoble
+Chicago,United States,48,"3,524",3.5,4.0,chicago
+Lusaka,Zambia,3,"1,193",2.0,3.5,lusaka
+Hiroshima,Japan,27,"3,001",3.0,3.81,hiroshima
+Agra,India,6,"1,162",4.0,3.95,agra
+Huainan,China,2,"1,208",3.0,4.18,huainan
+Manaus,Brazil,8,"1,352",3.0,2.4,manaus
+Zhuhai,China,2,"1,731",2.0,4.18,zhuhai
+Leipzig,Germany,28,"2,225",3.0,3.66,leipzig
+Orlando,United States,34,"3,062",3.0,3.39,orlando
+Puning,China,2,"1,608",2.0,4.18,puning
+Salzburg,Austria,20,"2,825",3.0,3.55,salzburg
+Wuhu,China,2,"1,245",2.0,4.18,wuhu
+Varkala,India,7,"1,077",2.0,3.95,varkala
+Leeds,United Kingdom,22,"4,869",5.0,4.5,leeds
+Kannur,India,5,903,3.0,3.95,kannur
+Pasto,Colombia,8,709,3.0,1.5,pasto
+Hamilton,Bermuda,19,"6,410",3.0,3.5,hamilton
+Livingstone,Zambia,3,"1,383",3.0,3.01,livingstone
+Trondheim,Norway,36,"3,308",4.0,4.93,trondheim
+Rhodes,Greece,12,"2,969",4.0,4.0,rhodes
+Regina,Canada,21,"2,657",3.0,3.34,regina
+Knoxville,United States,47,"2,451",3.0,3.36,knoxville
+Bologna,Italy,14,"2,474",3.0,4.0,bologna
+Pamplona,Spain,31,"2,763",3.0,3.73,pamplona
+Tijuana,Mexico,10,"2,120",5.0,2.5,tijuana
+Victoria,Canada,22,"2,848",2.0,3.39,victoria
+Johannesburg,South Africa,7,"1,773",3.0,1.75,johannesburg
+Hamburg,Germany,24,"3,607",5.0,5.0,hamburg
+Tehran,Iran,5,"1,666",2.0,3.5,tehran
+Jerusalem,Israel,14,"4,405",3.0,4.14,jerusalem
+Haifa,Israel,15,"3,841",4.0,3.89,haifa
+Bengaluru,India,13,780,2.0,4.2,bengaluru
+Jiangmen,China,2,"1,262",2.0,4.18,jiangmen
+Chattanooga,United States,50,"2,879",2.0,2.98,chattanooga
+Kuta,Indonesia,6,"1,081",1.0,4.05,kuta
+Lyon,France,24,"3,316",4.0,4.0,lyon
+Chelyabinsk,Russia,14,"1,434",2.0,2.5,chelyabinsk
+Sacramento,United States,33,"2,935",3.0,3.61,sacramento
+Gainesville,United States,40,"2,767",3.0,3.16,gainesville
+Indore,India,7,"1,322",4.0,3.95,indore
+Nashik,India,7,873,3.0,3.95,nashik
+Boise,United States,28,"2,650",2.0,3.61,boise
+Santa Marta,Colombia,7,"1,417",2.0,1.75,santa-marta
+Banjul,Gambia,2,638,2.0,2.94,banjul
+Turku,Finland,26,"2,641",3.0,3.33,turku
+Rotterdam,Netherlands,47,"3,221",3.5,4.0,rotterdam
+Geneva,Switzerland,36,"5,118",4.0,4.5,geneva
+Provo,United States,77,"3,025",2.0,4.47,provo
+Gori,Georgia,8,"2,054",4.0,3.73,gori
+Albuquerque,United States,35,"2,711",4.0,3.11,albuquerque
+Venice,Italy,17,"3,906",5.0,4.5,venice
+Mostar,Bosnia,10,"1,225",2.0,3.75,mostar
+Santa Barbara,United States,32,"5,401",4.0,3.57,santa-barbara
+Hyderabad,India,15,746,2.0,4.2,hyderabad
+Albany,United States,39,"2,509",3.0,4.03,albany
+New Haven,United States,29,"3,168",4.0,3.77,new-haven
+Zhuzhou,China,2,"1,350",2.0,4.18,zhuzhou
+Jaipur,India,5,669,2.0,4.2,jaipur
+Lugano,Switzerland,30,"4,691",3.0,3.85,lugano
+Kelowna,Canada,22,"3,710",5.0,3.34,kelowna
+Linyi,China,2,774,2.0,4.18,linyi
+Tarifa,Spain,20,"2,767",3.0,4.5,tarifa
+Oregon City,United States,35,"2,975",3.0,3.61,oregon-city
+Budva,Montenegro,20,"2,537",3.0,3.5,budva
+Zibo,China,2,"1,416",2.0,4.5,zibo
+Leicester,United Kingdom,22,"3,031",5.0,3.94,leicester
+Tromso,Norway,38,"4,278",4.0,3.86,tromso
+Minca,Colombia,22,"2,063",3.0,1.39,minca
+Panama City,Panama,18,"6,293",3.0,2.51,panama-city
+Sendai,Japan,21,"2,683",3.0,4.06,sendai
+Halifax,Canada,22,"2,300",3.0,3.5,halifax
+Hvar,Croatia,16,"1,761",2.0,3.49,hvar
+Coimbatore,India,7,"1,222",3.0,3.95,coimbatore
+Rostov-on-Don,Russia,10,"1,024",2.0,2.5,rostov-on-don
+Huai'an,China,2,"1,395",2.0,4.18,huaian
+Rimini,Italy,17,"3,056",3.0,3.93,rimini
+Amritsar,India,6,893,4.0,4.2,amritsar
+Itapema,Brazil,9,"2,156",3.0,1.95,itapema
+Dammam,Saudi Arabia,7,"1,811",2.0,3.96,dammam
+Vientiane,Laos,3,"1,009",1.0,3.0,vientiane
+Nanyang,China,2,545,2.0,4.18,nanyang
+Byron Bay,Australia,11,"4,744",4.0,3.4,byron-bay
+Utrecht,Netherlands,35,"3,687",4.0,3.94,utrecht
+Izhevsk,Russia,14,"1,429",1.0,2.5,izhevsk
+Gurgaon,India,7,"1,326",5.0,3.95,gurgaon
+Tulsa,United States,35,"2,290",4.0,2.72,tulsa
+Weifang,China,2,718,2.0,4.18,weifang
+Innsbruck,Austria,31,"3,312",3.0,3.55,innsbruck
+San Salvador,El Salvador,5,"1,545",3.0,1.25,san-salvador
+Nago,Japan,16,"2,802",3.25,4.0,nago
+Luanda,Angola,3,"2,569",4.0,2.0,luanda
+Oslo,Norway,37,"4,065",4.0,4.5,oslo
+Novosibirsk,Russia,12,"1,446",1.0,2.5,novosibirsk
+Battle Creek,United States,39,"1,850",3.0,3.36,battle-creek
+Bournemouth,United Kingdom,22,"3,225",3.0,4.19,bournemouth
+Campos dos Goytacazes,Brazil,9,"1,419",3.0,1.95,campos-dos-goytacazes
+Zhangjiakou,China,2,"1,408",2.0,4.18,zhangjiakou
+Surat,India,7,779,4.0,4.2,surat
+Bandar Seri Begawan,Brunei,3,"1,590",2.0,4.0,bandar-seri-begawan
+Qom,Iran,3,"1,374",2.0,3.69,qom
+Wanaka,New Zealand,19,"4,344",3.0,3.76,wanaka
+Santa Teresa,Costa Rica,14,"2,192",3.0,2.42,santa-teresa
+Durg,India,5,646,3.0,3.95,durg
+Montego Bay,Jamaica,13,"2,455",4.0,1.84,montego-bay
+Trieste,Italy,16,"2,934",3.0,3.5,trieste
+Oulu,Finland,30,"2,077",2.0,3.08,oulu
+Puerto Viejo,Costa Rica,7,"2,562",4.0,2.42,puerto-viejo
+Tebessa,Algeria,2,"1,679",2.0,3.0,tebessa
+Shenyang,China,2,"1,288",2.0,4.18,shenyang
+Cape Coral,United States,32,"3,031",3.0,3.86,cape-coral
+Kampala,Uganda,3,977,3.0,2.0,kampala
+Nantong,China,2,"1,208",2.0,4.18,nantong
+West Palm Beach,United States,28,"4,442",4.0,3.38,west-palm-beach
+The Hague,Netherlands,29,"3,270",4.0,3.94,the-hague
+Boracay,Philippines,7,"1,948",1.0,3.83,boracay
+Oxford,United Kingdom,20,"4,118",4.0,4.0,oxford
+Brownsville,United States,39,"2,419",3.0,3.81,brownsville
+Mobile,United States,37,"2,432",3.0,3.14,mobile
+Kauai,United States,20,"6,246",5.0,3.61,kauai
+Groningen,Netherlands,52,"2,925",3.0,4.5,groningen
+Sapporo,Japan,26,"3,174",4.0,4.06,sapporo
+Beaumont,United States,35,"2,408",3.0,3.42,beaumont
+Jamshedpur,India,5,927,3.0,3.95,jamshedpur
+San Jose,United States,39,"3,983",2.0,3.57,san-jose
+Virginia Beach,United States,58,"3,053",4.0,3.77,virginia-beach
+Asheville,United States,36,"3,551",3.0,4.24,asheville
+Melbourne,United States,39,"2,941",3.0,3.42,melbourne-fl
+Maseru,Lesotho,5,"1,358",1.0,2.23,maseru
+Charlotte,United States,34,"2,938",3.0,3.51,charlotte
+Shreveport,United States,44,"2,617",3.0,3.02,shreveport
+Shaoxing,China,2,"1,262",2.0,4.18,shaoxing
+Harbin,China,2,"1,371",2.0,4.18,harbin
+Brampton,Canada,22,"2,264",3.0,3.09,brampton
+Bossier City,United States,56,"2,592",3.0,3.02,bossier-city
+Cagliari,Italy,19,"3,188",3.0,3.93,cagliari
+Fayetteville,United States,37,"2,620",3.0,4.0,fayetteville
+Zhangjiagang,China,2,"1,287",2.0,4.18,zhangjiagang
+Laredo,United States,44,"2,766",3.0,3.85,laredo
+Meerut,India,6,664,3.0,3.95,meerut
+Interlaken,Switzerland,27,"4,530",4.0,4.5,interlaken
+Leiden,Netherlands,35,"3,979",4.0,4.75,leiden
+Nicosia,Cyprus,11,"3,103",4.0,3.5,nicosia
+Lianyungang,China,2,"1,241",2.0,4.18,lianyungang
+Santorini,Greece,13,"3,547",4.0,4.03,santorini
+Lome,Togo,2,876,2.0,2.84,lome
+Fargo,United States,44,"2,794",3.0,3.8,fargo
+Dar es Salaam,Tanzania,2,"1,453",2.0,2.74,dar-es-salaam
+Palm Coast,United States,32,"2,848",3.0,3.61,palm-coast
+Philadelphia,United States,36,"4,195",4.0,3.5,philadelphia
+Brighton,United Kingdom,22,"4,028",3.0,3.5,brighton
+Montpellier,France,24,"2,978",3.0,3.7,montpellier
+Spokane,United States,38,"2,488",3.0,3.33,spokane
+Konya,Turkey,9,803,3.0,4.0,konya
+Columbus,United States,34,"2,680",3.0,3.09,columbus-ga
+Hof,Germany,45,"2,511",3.0,3.66,hof
+Varanasi,India,4,795,3.0,3.95,varanasi
+Bremen,Germany,25,"2,669",3.0,5.0,bremen
+Xuzhou,China,2,641,2.0,4.0,xuzhou
+Bryan,United States,48,"2,569",3.0,3.88,bryan
+Sulaymaniyah,Kurdistan,1,"2,656",4.0,2.0,sulaymaniyah
+Buffalo,United States,28,"3,026",4.0,3.7,buffalo
+Beaverton,United States,32,"3,594",3.0,3.61,beaverton
+Fushun,China,2,"1,186",2.0,4.18,fushun
+Ube,Japan,24,"3,047",3.0,3.81,ube
+Yantai,China,2,"1,430",2.0,4.18,yantai
+Ludhiana,India,7,536,3.0,3.95,ludhiana
+Xining,China,2,"1,343",2.0,4.18,xining
+Dili,East Timor,1,"1,723",2.0,3.0,dili
+Nuremberg,Germany,27,"2,991",4.0,3.91,nuremberg
+Intag Valley,Ecuador,16,"1,572",3.0,3.15,intag-valley
+Clarksville,United States,37,"2,684",3.0,3.5,clarksville
+Daytona Beach,United States,29,"3,064",3.0,3.68,daytona-beach
+Hoover,United States,34,"2,982",3.0,3.61,hoover
+Kunming,China,2,"1,350",2.0,4.5,kunming
+Hangzhou,China,2,"1,326",2.0,4.0,hangzhou
+Cordoba,Spain,41,"2,734",4.0,3.86,cordoba-spain
+Valdosta,United States,37,"2,569",3.0,3.57,valdosta
+Visalia,United States,63,"2,625",3.0,3.39,visalia
+Wollongong,Australia,14,"2,848",2.0,3.65,wollongong
+Jinan,China,2,"1,384",2.0,4.18,jinan
+Abidjan,Cote d'Ivoire,2,"2,051",3.0,3.0,abidjan
+Zaria,Nigeria,4,"1,001",2.0,2.0,zaria
+Tashkent,Uzbekistan,2,869,3.0,3.5,tashkent
+Okayama,Japan,24,"2,899",3.0,3.81,okayama
+Tomsk,Russia,14,"1,751",1.0,3.0,tomsk
+Pocatello,United States,31,"2,978",3.0,3.83,pocatello
+Port St. Lucie,United States,32,"3,143",3.0,4.03,port-st-lucie
+Fredericton,Canada,22,"2,320",2.0,3.09,fredericton
+Fresno,United States,56,"3,067",2.0,3.23,fresno
+Jabalpur,India,6,"1,185",3.0,3.83,jabalpur
+McAllen,United States,47,"2,589",3.0,3.86,mcallen
+Columbus,United States,37,"3,172",3.0,3.66,columbus
+El Alto,Bolivia,3,"2,216",3.0,2.56,el-alto
+Zhongshan,China,2,"1,421",2.0,4.18,zhongshan
+Kitchener,Canada,22,"3,084",5.0,3.34,kitchener
+Greensboro,United States,41,"2,661",3.0,3.94,greensboro
+Lake Charles,United States,42,"2,695",3.0,3.21,lake-charles
+Mountain View,United States,38,"4,430",4.0,3.61,mountain-view
+Larnaca,Cyprus,11,"3,213",4.0,3.46,larnaca
+Bakersfield,United States,41,"2,747",3.0,2.95,bakersfield
+Accra,Ghana,5,"3,132",4.0,3.08,accra
+Canberra,Australia,12,"3,703",2.0,3.9,canberra
+Oshawa,Canada,22,"2,625",3.0,2.5,oshawa
+Changshu,China,2,"1,521",2.0,4.18,changshu
+Guwahati,India,7,"1,110",3.0,4.2,guwahati
+Zunyi,China,2,"1,608",2.0,4.18,zunyi
+Bethlehem,United States,46,"2,680",3.0,4.05,bethlehem
+Oakland,United States,28,"3,787",3.0,3.21,oakland
+Tulum,Mexico,10,"2,557",3.0,2.5,tulum
+Wenzhou,China,2,"1,064",2.0,4.18,wenzhou
+Weston,United States,32,"3,190",3.0,3.61,weston
+Indio,United States,34,"5,360",3.0,3.61,indio
+Klaipeda,Lithuania,26,"1,779",3.0,2.66,klaipeda
+Newcastle Upon Tyne,United Kingdom,19,"3,419",3.0,4.0,newcastle-upon-tyne
+Minneapolis,United States,34,"3,437",4.0,3.84,minneapolis
+Vitória,Brazil,9,"2,283",3.0,2.4,vitoria
+Cincinnati,United States,30,"3,001",3.0,3.86,cincinnati
+Bend,United States,29,"3,079",3.0,4.09,bend
+Karlsruhe,Germany,29,"2,654",3.0,5.0,karlsruhe
+Obninsk,Russia,19,"1,347",1.0,2.0,obninsk
+Grand Junction,United States,31,"3,055",3.0,3.41,grand-junction
+Galway,Ireland,20,"3,561",4.0,4.5,galway
+Huambo,Angola,2,"2,097",2.0,2.0,huambo
+Rethymno,Greece,13,"3,312",2.0,4.03,rethymno
+Boumerdas,Algeria,2,"1,535",2.0,3.0,boumerdas
+San Pedro,Belize,8,"2,670",5.0,2.0,san-pedro
+Aarhus,Denmark,38,"3,663",4.0,3.5,aarhus
+Macon,United States,31,"2,809",3.0,3.16,macon
+Cleveland,United States,32,"3,152",3.0,3.85,cleveland
+Yiwu,China,2,954,2.0,4.18,yiwu
+Rzeszow,Poland,20,"1,539",1.0,3.45,rzeszow
+Omsk,Russia,14,"1,372",1.0,2.5,omsk
+Brussels,Belgium,39,"2,831",3.0,3.2,brussels
+Moncton,Canada,22,"3,069",3.0,3.34,moncton
+Wenling,China,2,"1,477",2.0,4.18,wenling
+Guelph,Canada,21,"2,446",3.0,4.0,guelph
+Basel,Switzerland,44,"4,124",3.0,4.5,basel
+Richmond,United States,57,"3,079",2.0,3.36,richmond
+Cork,Ireland,21,"3,488",4.0,5.0,cork
+Mykonos,Greece,13,"6,895",4.0,4.03,mykonos
+Cedar Rapids,United States,38,"2,489",3.0,3.95,cedar-rapids
+Montgomery,United States,33,"2,783",3.0,3.15,montgomery
+Jiaxing,China,2,"1,830",2.0,4.5,jiaxing
+Bishkek,Kyrgyzstan,5,910,3.0,3.0,bishkek
+Guilin,China,1,"1,630",2.0,4.18,guilin
+Kagoshima,Japan,24,"3,455",3.0,3.81,kagoshima
+Corpus Christi,United States,46,"2,728",3.0,3.05,corpus-christi
+Plantation,United States,29,"3,741",3.0,3.61,plantation
+Kalyan,India,6,624,3.0,3.95,kalyan
+Espoo,Finland,27,"4,223",4.0,3.33,espoo
+Evansville,United States,54,"2,570",3.0,3.57,evansville
+Scranton,United States,63,"2,671",3.0,3.61,scranton
+Kaduna,Nigeria,4,"1,741",2.0,3.0,kaduna
+Alesund,Norway,43,"4,199",3.0,3.86,alesund
+Kennewick,United States,29,"2,767",3.0,4.02,kennewick
+Eindhoven,Netherlands,49,"3,707",3.0,5.0,eindhoven
+Kunshan,China,2,"1,600",2.0,4.18,kunshan
+Belize City,Belize,7,"2,208",2.0,2.0,belize-city
+Mexicali,Mexico,10,"2,247",3.0,3.24,mexicali
+Taiyuan,China,2,"1,032",3.0,4.18,taiyuan
+Jena,Germany,29,"2,439",3.0,3.91,jena
+Huaibei,China,2,"1,515",2.0,4.18,huaibei
+Park City,United States,34,"5,418",3.0,4.0,park-city
+Chania,Greece,12,"3,064",3.0,4.03,chania
+Punta del Este,Uruguay,12,"3,047",3.0,2.7,punta-del-este
+Nassau,The Bahamas,8,"4,589",4.0,3.0,nassau
+Lille,France,24,"3,168",5.0,3.4,lille
+Aberdeen,United Kingdom,20,"3,732",3.0,3.94,aberdeen
+Palm Desert,United States,35,"6,185",3.0,3.61,palm-desert
+Charleston,United States,29,"3,922",3.0,3.59,charleston
+Darwin,Australia,14,"4,208",2.0,3.65,darwin
+Surabaya,Indonesia,8,881,2.0,4.05,surabaya
+Lucknow,India,6,870,3.0,4.2,lucknow
+Idaho Falls,United States,35,"3,212",3.0,3.59,idaho-falls
+Edinburg,United States,31,"2,687",3.0,3.86,edinburg
+Ghent,Belgium,40,"2,909",3.0,4.5,ghent
+Palo Alto,United States,33,"4,314",3.0,4.0,palo-alto
+Missoula,United States,27,"2,941",3.0,3.52,missoula
+Erbil,Kurdistan,3,"2,502",2.0,2.0,erbil
+Sochi,Russia,9,"1,522",2.0,2.15,sochi
+Nizhny,Russia,14,"2,377",2.0,2.5,nizhny
+Yuma,United States,35,"3,253",3.0,3.59,yuma
+Urumqi,China,2,"1,465",2.0,4.18,urumqi
+Qiqihar,China,2,"1,178",2.0,4.18,qiqihar
+Weihai,China,2,"1,797",2.0,4.18,weihai
+Rennes,France,22,"2,704",3.0,3.7,rennes
+Bonita Springs,United States,47,"3,396",3.0,3.61,bonita-springs
+Colorado Springs,United States,34,"3,156",3.0,3.29,colorado-springs
+Mandalay,Myanmar,9,"1,772",2.0,3.5,mandalay
+Roanoke,United States,48,"2,850",3.0,4.0,roanoke
+Detroit,United States,32,"2,852",3.0,3.13,detroit
+Kolkata,India,7,724,3.0,4.2,kolkata
+Zandvoort,Netherlands,46,"4,380",4.0,3.94,zandvoort
+Wuxi,China,2,"1,653",2.0,4.18,wuxi
+Great Falls,United States,30,"2,908",3.0,3.65,great-falls
+Ocala,United States,37,"3,031",3.0,3.5,ocala
+Lexington,United States,33,"3,031",3.0,3.66,lexington
+Rui'an,China,2,"1,251",2.0,4.18,ruian
+Nanaimo,Canada,22,"2,852",2.0,3.34,nanaimo
+Bielefeld,Germany,29,"2,722",3.0,5.0,bielefeld
+Coimbra,Portugal,25,"3,757",3.0,4.2,coimbra
+Tucson,United States,36,"3,377",2.0,3.18,tucson
+Sarasota,United States,36,"3,636",3.0,3.79,sarasota
+Bergen,Norway,38,"4,113",4.0,3.86,bergen
+Jiamusi,China,2,"1,762",2.0,4.18,jiamusi
+Merced,United States,65,"3,031",3.0,3.08,merced
+Algiers,Algeria,2,"1,557",3.0,2.5,algiers
+Kingsport,United States,37,"3,001",3.0,3.6,kingsport
+Naples,Italy,16,"3,424",4.0,3.5,naples
+Killeen,United States,46,"2,987",3.0,3.37,killeen
+Lausanne,Switzerland,30,"4,930",3.0,3.85,lausanne
+Windhoek,Namibia,3,"1,878",3.0,2.15,windhoek
+Norwich,United Kingdom,20,"5,351",3.0,4.5,norwich
+Lucca,Italy,17,"3,190",3.0,3.93,lucca
+Dayton,United States,36,"3,156",3.0,3.72,dayton
+Sioux Falls,United States,36,"2,740",3.0,3.66,sioux-falls
+Vladivostok,Russia,12,"2,147",2.0,3.0,vladivostok
+Vijayawada,India,11,"1,257",2.0,3.95,vijayawada
+Moradabad,India,6,638,3.0,3.95,moradabad
+Volgograd,Russia,13,"1,918",2.0,2.15,volgograd
+Andorra la Vella,Andorra,103,"3,460",0.0,5.0,andorra-la-vella
+Little Rock,United States,38,"2,447",3.0,2.77,little-rock
+Midland,United States,34,"5,066",3.0,3.92,midland
+Fort Wayne,United States,32,"2,545",3.0,3.84,fort-wayne
+Des Moines,United States,29,"3,102",3.0,3.61,des-moines
+Port Orange,United States,31,"3,318",3.0,3.61,port-orange
+Dothan,United States,30,"2,889",3.0,3.13,dothan
+Changchun,China,2,"1,251",2.0,4.18,changchun
+Lake Como,Italy,17,"2,956",3.25,4.5,lake-como
+Conroe,United States,41,"3,061",3.0,3.61,conroe
+Haarlem,Netherlands,24,"4,706",4.0,3.94,haarlem
+Lubbock,United States,41,"2,705",3.0,3.61,lubbock
+Tyler,United States,73,"2,827",3.0,3.6,tyler
+Lake Havasu City,United States,57,"3,369",3.0,4.07,lake-havasu-city
+Modena,Italy,16,"3,446",4.0,3.93,modena
+Grand Rapids,United States,36,"3,240",3.0,3.81,grand-rapids
+Cathedral City,United States,28,"6,272",3.0,3.61,cathedral-city
+Oran,Algeria,2,"1,474",2.0,3.0,oran
+Turlock,United States,35,"3,253",3.0,3.61,turlock
+Johnson City,United States,28,"3,235",3.0,3.7,johnson-city
+Birmingham,United Kingdom,22,"3,266",4.0,4.0,birmingham
+Patna,India,4,997,4.0,3.95,patna
+Baoding,China,2,697,2.0,4.18,baoding
+Punta Cana,Dominican Republic,12,"2,595",3.0,2.39,punta-cana
+Dortmund,Germany,26,"2,892",4.0,3.91,dortmund
+Anshan,China,2,798,2.0,3.93,anshan
+Bismarck,United States,37,"2,787",3.0,3.62,bismarck
+Lilongwe,Malawi,2,"2,102",2.0,3.5,lilongwe
+Palmdale,United States,39,"2,889",3.0,3.61,palmdale
+Antwerp,Belgium,55,"3,428",4.0,3.85,antwerp
+Tegucigalpa,Honduras,5,"1,477",2.0,1.58,tegucigalpa
+Pune,India,7,819,3.0,4.2,pune
+Harlingen,United States,47,"2,893",3.0,3.81,harlingen
+Nanning,China,2,"1,420",2.0,3.93,nanning
+Pristina,Kosovo,7,"1,665",3.0,3.5,pristina
+Lafayette,United States,41,"3,224",3.0,3.49,lafayette
+Modesto,United States,52,"2,952",3.0,3.01,modesto
+Abuja,Nigeria,4,"1,986",2.0,2.5,abuja
+Aurangabad,India,5,"1,444",3.0,3.83,aurangabad
+Logan,United States,66,"3,305",3.0,3.68,logan
+Porterville,United States,36,"3,438",3.0,3.39,porterville
+Oranjestad,Aruba,18,"3,499",3.0,3.75,oranjestad
+Liuzhou,China,2,"1,618",2.0,4.18,liuzhou
+Avignon,France,38,"3,203",3.0,3.7,avignon
+Yakima,United States,36,"3,063",3.0,3.31,yakima
+Pharr,United States,42,"2,963",3.0,3.61,pharr
+Whistler,Canada,23,"4,036",3.0,3.09,whistler
+Kassel,Germany,29,"2,669",3.0,3.84,kassel
+Cabarete,Dominican Republic,8,"3,019",3.0,2.64,cabarete
+Jonesboro,United States,31,"2,746",3.0,3.55,jonesboro
+Anchorage,United States,28,"3,770",3.0,3.23,anchorage
+Stamford,United States,35,"4,136",3.0,4.06,stamford
+Bareilly,India,5,717,3.0,3.95,bareilly
+Bhopal,India,6,769,4.0,3.83,bhopal
+Fort Collins,United States,61,"3,069",3.0,4.01,fort-collins
+Bowling Green,United States,52,"3,203",3.0,4.03,bowling-green
+Ufa,Russia,14,"1,393",2.0,2.5,ufa
+Tianjin,China,2,"1,056",3.0,4.5,tianjin
+Riverside,United States,33,"3,757",4.0,3.39,riverside
+Stockton,United States,30,"2,791",3.0,2.82,stockton
+Scheveningen,Netherlands,53,"3,923",4.0,3.94,scheveningen
+Hull,United Kingdom,19,"3,066",3.0,4.19,hull
+Kuwait City,Kuwait,6,"3,036",4.0,3.5,kuwait-city
+Louisville,United States,40,"3,482",3.0,3.5,louisville
+Kaesong,North Korea,1,"1,790",4.0,3.0,kaesong
+Bradenton,United States,46,"3,592",3.0,3.79,bradenton
+Taizhou,China,2,"2,275",3.0,4.18,taizhou
+Yuba City,United States,58,"3,137",3.0,3.22,yuba-city
+Menlo Park,United States,51,"5,350",3.0,3.61,menlo-park
+Oklahoma City,United States,41,"2,971",2.0,3.16,oklahoma-city
+St. George,United States,54,"5,034",3.0,3.61,st-george
+Verona,Italy,16,"3,301",3.0,3.93,verona
+Rapid City,United States,35,"2,939",3.0,3.2,rapid-city
+Fairfax,United States,60,"3,775",2.0,3.61,fairfax
+Bridgeport,United States,30,"4,208",4.0,4.03,bridgeport
+Victorville,United States,45,"3,269",3.0,3.61,victorville
+Sandpoint,United States,22,"3,061",3.0,3.61,sandpoint
+St. Gallen,Switzerland,32,"4,821",4.0,3.82,st-gallen
+Santa Fe,United States,27,"2,867",4.0,3.96,santa-fe
+Petaluma,United States,45,"4,180",3.0,3.61,petaluma
+Scottsdale,United States,28,"4,020",3.0,3.28,scottsdale
+Kazan,Russia,14,"2,659",2.0,3.0,kazan
+Spokane Valley,United States,57,"2,885",3.0,3.33,spokane-valley
+Palm Bay,United States,34,"3,313",3.0,3.42,palm-bay
+Ulyanovsk,Russia,10,"1,516",2.0,2.07,ulyanovsk
+College Station,United States,53,"3,143",3.0,3.88,college-station
+Portsmouth,United Kingdom,19,"3,522",3.0,4.19,portsmouth
+Reno,United States,30,"3,072",3.0,3.16,reno
+Pensacola,United States,38,"3,258",3.0,3.53,pensacola
+Rocky Mount,United States,38,"2,915",3.0,4.0,rocky-mount
+Syracuse,United States,33,"2,820",3.0,3.92,syracuse
+Aalborg,Denmark,43,"3,354",3.0,3.0,aalborg
+Richland,United States,36,"3,097",3.0,4.02,richland
+Tuscaloosa,United States,32,"3,581",3.0,3.58,tuscaloosa
+Corvallis,United States,38,"3,192",3.0,4.14,corvallis
+Sargodha,Pakistan,2,682,2.0,2.5,sargodha
+San Ignacio,Belize,13,"2,270",4.0,1.39,san-ignacio
+Enterprise,United States,63,"3,480",3.0,3.61,enterprise
+Eugene,United States,35,"2,921",3.0,3.6,eugene
+Canton,United States,34,"2,758",3.0,3.61,canton
+Biarritz,France,22,"3,877",3.0,3.9,biarritz
+Yinchuan,China,2,"1,162",2.0,4.18,yinchuan
+Warner Robins,United States,36,"3,197",3.0,3.49,warner-robins
+Dusseldorf,Germany,25,"3,213",2.0,3.91,dusseldorf
+Lahore,Pakistan,4,772,3.0,3.0,lahore
+San Mateo,United States,69,"4,454",3.0,3.61,san-mateo
+San Juan,Puerto Rico,19,"3,574",3.0,3.0,san-juan
+Huntsville,United States,39,"3,474",2.0,3.12,huntsville
+Newport Beach,United States,46,"5,028",3.0,3.61,newport-beach
+Bhubaneswar,India,6,"1,299",3.0,3.95,bhubaneswar
+Galveston,United States,39,"4,326",3.0,3.61,galveston
+Princeton,United States,40,"3,478",3.0,3.61,princeton
+Tulare,United States,31,"3,168",3.0,3.61,tulare
+Asmara,Eritrea,1,922,1.0,2.5,asmara
+Greenville,United States,32,"3,278",3.0,3.2,greenville
+Oxnard,United States,34,"8,856",4.0,3.94,oxnard
+Nuuk,Greenland,10,"2,476",4.0,3.5,nuuk
+Cardiff,United Kingdom,20,"4,771",3.0,4.0,cardiff
+St. Louis,United States,38,"2,972",2.0,3.23,st-louis
+Ouagadougou,Burkina Faso,1,"1,636",2.0,4.0,ouagadougou
+Burlington,United States,47,"3,189",3.0,4.04,burlington
+Huddersfield,United Kingdom,22,"3,097",3.0,3.94,huddersfield
+Rochester,United States,29,"2,721",3.0,4.16,rochester-mn
+Ningbo,China,2,"1,592",2.0,3.93,ningbo
+Turin,Italy,16,"3,483",4.0,4.5,turin
+Peoria,United States,35,"2,538",3.0,3.53,peoria
+São José dos Campos,Brazil,8,"2,791",3.0,2.4,sao-jose-dos-campos
+Kanpur,India,6,"1,235",3.0,3.95,kanpur
+Ibadan,Nigeria,4,"1,429",2.0,2.5,ibadan
+Handan,China,2,859,2.0,4.18,handan
+Beacon,United States,30,"3,057",3.0,3.61,beacon
+Tanchon,North Korea,1,"1,659",2.0,3.0,tanchon
+Belfast,United Kingdom,22,"3,070",2.0,4.0,belfast
+Laayoune,Western Sahara,8,"1,163",1.0,2.0,laayoune
+Houston,United States,36,"3,563",2.0,3.53,houston
+La Crosse,United States,35,"2,929",3.0,4.12,la-crosse
+Breda,Netherlands,39,"4,299",3.63,4.9,breda
+Rochester,United States,35,"2,973",3.0,3.5,rochester
+Winston,United States,35,"3,054",3.0,3.61,winston
+Wilmington,United States,49,"3,299",3.0,4.05,wilmington
+Dhanbad,India,5,937,3.0,3.95,dhanbad
+Kano,Nigeria,3,"1,822",2.0,2.5,kano
+Kisangani,DR Congo,2,"1,329",2.0,2.0,kisangani
+Anyang,China,2,"1,718",3.0,3.93,anyang
+Baotou,China,2,"1,891",3.0,4.18,baotou
+Longview,United States,28,"3,217",3.0,3.36,longview
+Apia,Samoa,6,"2,569",3.0,4.0,apia
+Erie,United States,29,"3,067",3.0,4.04,erie
+George Town,Cayman Islands,12,"5,418",2.0,3.5,george-town-cayman-islands
+Zhucheng,China,2,"1,482",2.0,4.18,zhucheng
+Shijiazhuang,China,2,"1,024",3.0,4.18,shijiazhuang
+Augusta,United States,38,"3,301",3.0,3.93,augusta
+Tengzhou,China,2,"1,639",2.0,4.18,tengzhou
+Memphis,United States,33,"3,112",2.0,3.11,memphis
+Windsor,Canada,23,"4,581",3.0,2.5,windsor
+Eau Claire,United States,38,"2,936",3.0,4.25,eau-claire
+Sparks,United States,39,"3,455",3.0,3.61,sparks
+Port-au-Prince,Haiti,4,"2,042",3.0,2.0,port-au-prince
+Hannover,Germany,34,"3,461",3.0,3.91,hannover
+Apple Valley,United States,50,"4,880",3.0,3.61,apple-valley
+Madison,United States,36,"3,486",4.0,4.04,madison
+Fort Myers,United States,38,"3,494",3.0,3.86,fort-myers
+Norfolk,United States,31,"3,393",3.0,3.77,norfolk
+San Clemente,United States,33,"4,411",3.0,3.61,san-clemente
+Providence,United States,30,"4,692",4.0,3.89,providence
+Homs,Syria,1,"1,188",1.0,1.0,homs
+Bellingham,United States,57,"3,781",3.0,3.61,bellingham
+Henderson,United States,41,"3,229",3.0,2.97,henderson
+Lancaster,United States,42,"3,235",3.0,3.61,lancaster
+Monterey,United States,33,"4,751",3.0,3.61,monterey
+Delano,United States,37,"3,370",3.0,3.61,delano
+Bahawalpur,Pakistan,3,"1,053",1.0,2.0,bahawalpur
+Wichita,United States,42,"2,925",3.0,3.23,wichita
+Bozeman,United States,27,"3,718",3.0,3.61,bozeman
+Auburn,United States,40,"3,615",3.0,3.61,auburn
+Rogers,United States,40,"3,001",3.0,3.61,rogers
+Carson City,United States,32,"3,317",3.0,3.77,carson-city
+Davenport,United States,31,"2,810",3.0,3.41,davenport
+Cody,United States,31,"4,092",3.0,3.61,cody
+Terre Haute,United States,36,"2,716",3.0,3.61,terre-haute
+Jilin,China,2,"1,362",2.0,4.18,jilin
+Salem,United States,37,"3,528",3.0,3.69,salem
+Amarillo,United States,46,"2,493",3.0,2.95,amarillo
+Maracaibo,Venezuela,2,"1,638",3.0,1.25,maracaibo
+Pasco,United States,31,"3,133",3.0,3.61,pasco
+Manteca,United States,57,"3,281",3.0,3.61,manteca
+Toledo,United States,31,"2,890",3.0,3.95,toledo
+Mashhad,Iran,4,"1,373",1.0,4.0,mashhad
+Hemet,United States,71,"3,865",3.0,3.61,hemet
+Las Cruces,United States,33,"3,439",3.0,3.61,las-cruces
+Monza,Italy,17,"3,532",3.0,4.0,monza
+Bedford,United States,43,"3,530",3.0,3.61,bedford
+Onitsha,Nigeria,4,"1,282",2.0,2.5,onitsha
+Kamiyama,Japan,26,"3,001",2.0,4.06,kamiyama
+Gibraltar,Gibraltar,18,"5,004",3.0,3.0,gibraltar
+Billings,United States,28,"3,270",3.0,3.21,billings
+Caye Caulker,Belize,14,"2,848",4.0,2.0,caye-caulker
+Temple,United States,48,"3,220",3.0,3.37,temple
+Leuven,Belgium,50,"2,926",3.0,3.6,leuven
+Port Arthur,United States,49,"3,313",3.0,3.42,port-arthur
+Patras,Greece,13,"2,891",3.0,4.03,patras
+Erlangen,Germany,25,"2,982",3.0,3.66,erlangen
+Nijmegen,Netherlands,31,"3,404",3.0,3.69,nijmegen
+Juarez,Mexico,19,"1,444",1.0,0.25,juarez
+Dededo,Guam,5,"3,877",5.0,2.0,dededo
+Beersheba,Israel,13,"3,304",3.0,4.28,beersheba
+Lanzhou,China,2,"1,440",2.0,4.18,lanzhou
+Lynchburg,United States,27,"3,243",3.0,4.09,lynchburg
+Owensboro,United States,33,"3,200",3.0,4.0,owensboro
+Helena,United States,27,"3,450",3.0,3.61,helena
+High Point,United States,34,"3,376",3.0,3.94,high-point
+Jyvaskyla,Finland,29,"3,481",1.0,3.33,jyvaskyla
+Portland,United States,29,"4,584",3.0,4.18,portland-me
+Chamonix,France,21,"3,932",3.0,3.7,chamonix
+San Angelo,United States,34,"5,412",3.0,3.58,san-angelo
+Tilburg,Netherlands,42,"4,017",4.0,4.0,tilburg
+Karachi,Pakistan,4,"1,129",1.0,2.0,karachi
+Nottingham,United Kingdom,22,"3,494",3.0,3.69,nottingham
+Napa,United States,50,"5,360",3.0,3.14,napa
+Exeter,United Kingdom,24,"3,942",3.0,4.0,exeter
+Ramallah,Palestine,4,"2,274",2.0,4.0,ramallah
+Noida,India,7,"1,915",3.0,3.95,noida
+Southampton,United Kingdom,22,"3,761",4.0,3.94,southampton
+Coeur d'Alene,United States,38,"3,445",3.0,4.07,coeur-dalene
+Tallahassee,United States,42,"4,392",3.0,3.05,tallahassee
+Amundsen-Scott,Antarctica,0,"6,137",3.0,4.0,amundsen-scott
+Taos,United States,23,"3,317",3.0,3.61,taos
+Carlsbad,United States,49,"4,476",3.0,3.72,carlsbad
+Lake Tahoe,United States,28,"4,242",4.0,3.61,lake-tahoe
+Milwaukee,United States,36,"3,522",4.0,3.11,milwaukee
+Luoyang,China,2,"1,184",2.0,4.18,luoyang
+Hagatna,Guam,8,"3,695",5.0,2.0,hagatna
+Torshavn,Denmark,72,"4,211",3.0,3.74,torshavn
+Baltimore,United States,32,"3,945",3.0,3.0,baltimore
+Bridgetown,Barbados,22,"3,724",3.0,2.0,bridgetown
+Duhok,Kurdistan,1,"2,892",3.0,3.0,duhok
+Muncie,United States,37,"3,111",3.0,3.72,muncie
+Lawton,United States,39,"2,985",3.0,3.14,lawton
+Dongying,China,2,"2,107",2.0,4.18,dongying
+Copan,Honduras,5,"1,526",2.0,1.49,copan
+Road Town,British Virgin Islands,5,"5,418",3.0,3.5,road-town
+Springfield,United States,49,"2,507",3.0,2.96,springfield
+Srinagar,India,8,779,2.0,3.95,srinagar
+Beijing,China,2,"2,106",3.0,4.0,beijing
+Savannah,United States,38,"3,523",3.0,3.71,savannah
+Gulfport,United States,30,"3,804",3.0,3.69,gulfport
+Temecula,United States,40,"3,656",3.0,3.61,temecula
+Chatham,Canada,22,"3,170",2.0,3.34,chatham
+Amalfi,Italy,17,"3,038",3.0,3.35,amalfi
+Casa Grande,United States,27,"4,087",3.0,3.61,casa-grande
+Duluth,United States,27,"3,390",3.0,3.98,duluth
+Basse-Terre,Guadeloupe,6,"2,500",3.0,2.5,basse-terre
+Sheffield,United Kingdom,19,"3,476",3.0,4.19,sheffield
+Isfahan,Iran,3,"2,325",1.0,4.0,isfahan
+Tracy,United States,62,"3,435",3.0,3.61,tracy
+Allentown,United States,50,"3,354",3.0,4.05,allentown
+Port Harcourt,Nigeria,4,"1,635",2.0,2.5,port-harcourt
+Iowa City,United States,30,"3,195",3.0,3.96,iowa-city
+North Little Rock,United States,35,"3,034",3.0,2.77,north-little-rock
+Nouakchott,Mauritania,1,"1,840",1.0,2.0,nouakchott
+Asansol,India,5,"1,152",3.0,3.95,asansol
+Reading,United Kingdom,20,"3,981",3.0,4.26,reading
+Dijon,France,35,"3,315",4.0,3.7,dijon
+Harrisonburg,United States,35,"4,388",3.0,3.88,harrisonburg
+Odessa,United States,34,"4,150",3.0,3.01,odessa-tx
+Flagstaff,United States,31,"3,497",4.0,3.7,flagstaff
+Basra,Iraq,3,"2,009",2.0,0.25,basra
+Trier,Germany,40,"3,269",3.0,3.84,trier
+Grand Forks,United States,33,"3,228",3.0,3.93,grand-forks
+Casper,United States,30,"3,747",3.0,3.84,casper
+Cambridge,United Kingdom,22,"3,968",2.0,5.0,cambridge
+Arendal,Norway,41,"5,110",4.0,3.82,arendal
+Philipsburg,Sint Maarten,6,"3,744",3.0,2.0,philipsburg
+Fort Smith,United States,28,"3,170",3.0,3.19,fort-smith
+Ajaccio,France,22,"4,972",3.0,3.7,ajaccio
+Kralendijk,Bonaire,6,"4,484",4.0,3.0,kralendijk
+Topeka,United States,35,"3,050",3.0,3.28,topeka
+Oceanside,United States,36,"3,911",3.0,3.61,oceanside
+Vista,United States,37,"3,915",3.0,3.61,vista
+Luxembourg,Luxembourg,31,"4,557",3.0,4.5,luxembourg
+Benin City,Nigeria,3,"1,690",2.0,3.0,benin-city
+Fairfield,United States,75,"3,434",3.0,3.13,fairfield
+Nuku'alofa,Tonga,3,"2,389",2.0,4.5,nukualofa
+Chongjin,North Korea,1,"1,501",2.0,3.0,chongjin
+Champaign,United States,41,"2,963",3.0,3.55,champaign
+Kokomo,United States,36,"2,887",3.0,3.14,kokomo
+Murrieta,United States,48,"3,743",3.0,3.61,murrieta
+Indianapolis,United States,44,"3,165",3.0,2.99,indianapolis
+Jeddah,Saudi Arabia,8,"2,385",1.0,3.5,jeddah
+Sioux City,United States,32,"3,172",3.0,3.72,sioux-city
+Abilene,United States,37,"4,154",3.0,3.65,abilene
+Minot,United States,26,"3,355",3.0,3.61,minot
+Brentwood,United States,63,"3,600",3.0,3.61,brentwood
+Harare,Zimbabwe,3,"3,016",3.0,3.48,harare
+Darmstadt,Germany,32,"2,851",3.0,3.66,darmstadt
+Jackson,United States,27,"4,309",3.0,3.03,jackson
+Dubuque,United States,37,"3,580",3.0,4.03,dubuque
+Texel,Netherlands,53,"4,330",4.0,3.94,texel
+Kinshasa,DR Congo,1,"1,982",3.0,2.0,kinshasa
+Aligarh,India,5,"1,391",2.0,3.95,aligarh
+Bridgeton,United States,34,"3,661",3.0,3.61,bridgeton
+Anderson,United States,31,"3,112",3.0,2.99,anderson
+Joplin,United States,30,"4,388",3.0,3.35,joplin
+Mombasa,Kenya,8,"2,174",2.0,2.5,mombasa
+Cheltenham,United Kingdom,22,"4,096",3.0,3.94,cheltenham
+Islamabad,Pakistan,3,856,2.0,2.5,islamabad
+Grand Island,United States,36,"3,524",3.0,3.61,grand-island
+Sayulita,Mexico,13,"2,997",3.0,2.74,sayulita
+Gaborone,Botswana,2,"1,633",1.0,2.36,gaborone
+Incline Village,United States,28,"4,804",3.0,3.61,incline-village
+Jacksonville,United States,34,"4,452",3.0,3.61,jacksonville-nc
+St John's,Antigua and Barbuda,6,"2,764",0.0,2.0,st-johns
+Greeley,United States,37,"3,750",3.0,3.94,greeley
+Lodi,United States,52,"3,316",3.0,2.82,lodi
+Bruges,Belgium,35,"4,428",3.0,3.6,bruges
+Ferrara,Italy,15,"3,867",4.0,3.68,ferrara
+York,United Kingdom,22,"3,994",3.0,3.94,york
+Annecy,France,30,"3,428",3.0,3.7,annecy
+Quetta,Pakistan,2,486,2.0,2.5,quetta
+Zwolle,Netherlands,35,"3,493",2.0,3.94,zwolle
+Dorobō,Japan,24,"3,154",3.0,3.06,dorobo
+Heidelberg,Germany,28,"3,325",3.0,3.66,heidelberg
+Mission,United States,31,"4,749",3.0,3.86,mission
+Manhattan,United States,39,"3,526",3.0,3.89,manhattan
+Verdi,United States,9,"3,355",3.0,3.61,verdi
+Rovaniemi,Finland,40,"4,501",3.5,3.17,rovaniemi
+Ithaca,United States,27,"4,463",3.0,3.61,ithaca
+Frederick,United States,48,"5,561",3.0,3.61,frederick
+Hartford,United States,37,"3,728",2.0,3.73,hartford
+Almere,Netherlands,70,"3,433",3.25,3.89,almere
+Bay Islands,Honduras,5,"2,233",2.0,1.49,bay-islands
+Ashland,United States,28,"5,231",3.0,3.61,ashland
+Luton,United Kingdom,22,"3,567",4.0,3.38,luton
+Kaliningrad,Russia,14,"2,275",2.0,2.5,kaliningrad
+Enid,United States,53,"3,551",3.0,3.61,enid
+Hohhot,China,2,"1,447",2.0,4.18,hohhot
+Yaounde,Cameroon,2,"1,614",1.0,2.5,yaounde
+Bath,United Kingdom,22,"3,328",3.0,4.05,bath
+Reading,United States,44,"3,813",3.0,4.01,reading-pa
+Saint Helier,Jersey,27,"6,239",3.0,3.0,saint-helier
+Lincoln,United States,38,"5,320",3.0,3.61,lincoln
+Victoria,Seychelles,4,"4,020",3.0,3.5,victoria-seychelles
+Maputo,Mozambique,2,"2,186",1.0,3.0,maputo
+Lansing,United States,41,"3,019",3.0,3.46,lansing
+Kearney,United States,28,"3,564",3.0,3.61,kearney
+Kananga,DR Congo,2,"1,396",1.0,2.0,kananga
+Omaha,United States,41,"3,224",2.0,3.38,omaha
+Bloomington,United States,33,"3,744",3.0,3.69,bloomington
+Lelystad,Netherlands,41,"3,397",3.0,3.94,lelystad
+Mosul,Iraq,3,"1,856",1.0,0.25,mosul
+Decatur,United States,37,"3,196",3.0,3.24,decatur
+Aurora,United States,38,"3,102",3.0,3.61,aurora
+Nouméa,New Caledonia,3,"5,396",3.0,3.5,noumea
+Faisalabad,Pakistan,3,"1,151",1.0,2.5,faisalabad
+Rawalpindi,Pakistan,4,680,1.0,2.0,rawalpindi
+Kenosha,United States,55,"3,370",3.0,3.61,kenosha
+Leeuwarden,Netherlands,37,"3,751",3.0,3.94,leeuwarden
+Elkhart,United States,45,"3,349",3.0,3.61,elkhart
+Siena,Italy,17,"3,589",2.0,3.93,siena
+St. Cloud,United States,34,"4,124",3.0,4.06,st-cloud
+Manchester,United States,50,"3,390",3.0,4.02,manchester-nh
+Waco,United States,51,"4,376",3.0,3.36,waco
+Ann Arbor,United States,38,"4,361",2.0,3.83,ann-arbor
+Oshkosh,United States,36,"3,992",3.0,4.14,oshkosh
+Fort McMurray,Canada,23,"3,697",1.0,3.09,fort-mcmurray
+Bloomington,United States,34,"3,289",3.0,3.92,bloomington-il
+Strasbourg,France,24,"3,447",3.0,3.5,strasbourg
+Hesperia,United States,39,"3,527",3.0,3.61,hesperia
+Avarua,Cook Islands,1,"4,890",4.0,3.5,avarua
+San Pedro Sula,Honduras,4,"1,771",2.0,1.49,san-pedro-sula
+Marysville,United States,39,"3,408",3.0,3.61,marysville
+Wichita Falls,United States,34,"3,731",3.0,3.56,wichita-falls
+Benghazi,Libya,3,"2,675",2.0,1.5,benghazi
+Charlotte Amalie,United States Virgin Islands,6,"6,084",0.0,2.25,charlotte-amalie
+Springdale,United States,44,"3,694",3.0,3.61,springdale
+Cheyenne,United States,28,"3,797",3.0,3.74,cheyenne
+Lubumbashi,DR Congo,2,"1,722",1.0,2.0,lubumbashi
+Victoria,United States,34,"3,549",3.0,3.39,victoria-tx
+Kaechon,North Korea,1,"1,483",2.0,3.0,kaechon
+Anápolis,Brazil,8,"2,978",2.0,1.95,anapolis
+Santa Maria,United States,46,"3,480",3.0,3.63,santa-maria
+Bellevue,United States,44,"3,975",3.0,3.61,bellevue
+Columbia,United States,33,"4,251",3.0,3.5,columbia
+Salem,United States,36,"4,050",3.0,3.36,salem-ma
+Green Bay,United States,35,"3,872",3.0,4.08,green-bay
+Barrie,Canada,16,"2,951",1.0,3.09,barrie
+Libreville,Gabon,3,"2,407",2.0,2.5,libreville
+Conway,United States,33,"4,764",3.0,2.77,conway
+Appleton,United States,34,"3,389",3.0,4.2,appleton
+Pueblo,United States,51,"3,101",3.0,2.61,pueblo
+Juba,South Sudan,1,"1,193",1.0,0.25,juba
+Waterloo,United States,33,"4,381",3.0,3.71,waterloo-ia
+Waukegan,United States,41,"4,127",3.0,3.61,waukegan
+Janesville,United States,34,"3,730",3.0,3.94,janesville
+Worcester,United States,30,"3,388",3.0,3.32,worcester
+Vatican City,Vatican City,7,"3,989",4.0,3.0,vatican-city
+León,Nicaragua,6,"2,513",2.0,2.0,leon
+Lawrence,United States,36,"4,200",3.0,3.61,lawrence
+Sialkot,Pakistan,2,588,2.0,2.5,sialkot
+Niamey,Niger,2,"1,977",2.0,3.5,niamey
+Normal,United States,45,"3,359",3.0,3.61,normal
+Aleppo,Syria,2,967,1.0,0.5,aleppo
+Rouen,France,38,"3,975",3.0,3.65,rouen
+Youngstown,United States,31,"3,306",3.0,3.61,youngstown
+Coventry,United Kingdom,22,"3,622",2.0,4.19,coventry
+Conakry,Guinea,2,"2,415",2.0,2.5,conakry
+Tamarindo,Costa Rica,6,"3,203",3.0,3.0,tamarindo
+Utica,United States,30,"3,519",3.0,3.91,utica
+Nashua,United States,30,"3,809",3.0,4.02,nashua
+Shrewsbury,United Kingdom,23,"4,881",3.0,4.05,shrewsbury
+Elgin,United States,50,"4,619",3.0,4.16,elgin
+Schenectady,United States,31,"3,308",3.0,3.97,schenectady
+Waterloo,Canada,46,"4,089",3.0,3.14,waterloo
+Flint,United States,44,"3,492",3.0,3.02,flint
+Sana'a,Yemen,1,"1,696",2.0,0.5,sanaa
+Soweto,South Africa,7,"2,216",1.0,2.15,soweto
+Freetown,Sierra Leone,2,"2,275",1.0,3.3,freetown
+Rockford,United States,43,"3,269",3.0,2.89,rockford
+Sariwon,North Korea,1,"2,322",2.0,3.0,sariwon
+Jamestown,Saint Helena,0,"5,955",1.0,5.0,jamestown
+Vineland,United States,61,"3,453",3.0,3.25,vineland
+Baton Rouge,United States,33,"4,885",1.0,3.01,baton-rouge
+Sinuiju,North Korea,1,"1,593",2.0,3.0,sinuiju
+Joliet,United States,34,"3,427",3.0,3.61,joliet
+Qinhuangdao,China,2,"1,659",2.0,4.18,qinhuangdao
+Datong,China,2,"2,710",4.0,4.18,datong
+Naypyidaw,Myanmar,5,"2,626",2.0,3.5,naypyidaw
+Northampton,United Kingdom,22,"5,206",2.0,3.69,northampton
+St. Joseph,United States,33,"3,509",3.0,3.12,st-joseph
+Port Vila,Vanuatu,2,"3,231",2.0,3.5,port-vila
+Brazzaville,Congo,1,"2,650",2.0,2.0,brazzaville
+Kumasi,Ghana,3,"2,156",2.0,3.04,kumasi
+Deventer,Netherlands,36,"3,998",2.0,3.94,deventer
+Olympia,United States,47,"3,566",3.0,3.72,olympia
+Chifeng,China,2,"2,576",2.0,4.18,chifeng
+Centennial,United States,49,"3,859",3.0,3.61,centennial
+Hama,Syria,2,"1,691",1.0,1.0,hama
+Arnhem,Netherlands,46,"3,955",2.0,3.94,arnhem
+Khartoum,Sudan,1,"4,257",2.0,2.5,khartoum
+Peshawar,Pakistan,2,"1,238",3.0,2.0,peshawar
+Maracay,Venezuela,2,"3,222",3.0,1.25,maracay
+Dhaka,Bangladesh,6,"1,509",1.0,3.5,dhaka
+Baghdad,Iraq,3,"1,777",1.0,0.25,baghdad
+Monrovia,Liberia,8,"5,982",2.0,2.5,monrovia
+Yamoussoukro,Cote d'Ivoire,7,"2,567",2.0,2.0,yamoussoukro
+Honiara,Solomon Islands,1,"3,099",2.0,3.5,honiara
+Stanley,Falkland Islands,0,"4,238",2.0,5.0,stanley
+Kirkuk,Kurdistan,1,"3,295",2.0,1.0,kirkuk
+Cayenne,French Guiana,4,"3,349",2.0,2.5,cayenne
+Damascus,Syria,1,"2,808",1.0,0.5,damascus
+Mbuji-Mayi,DR Congo,1,"1,952",1.0,1.5,mbuji-mayi
+Huzhou,China,2,"4,710",2.0,4.18,huzhou
+McMurdo Station,Antarctica,0,"6,137",3.0,4.0,mcmurdo-station
+Yangzhou,China,2,"4,258",2.0,4.18,yangzhou
+Nampo,North Korea,1,"2,566",2.0,3.0,nampo
+Port Moresby,Papua New Guinea,2,"2,828",2.0,2.38,port-moresby
+Gujranwala,Pakistan,2,"1,169",1.0,2.0,gujranwala
+Caracas,Venezuela,2,"3,152",2.0,0.75,caracas
+Funafuti,Tuvalu,0,"2,940",2.0,3.0,funafuti
+Tripoli,Libya,3,"4,120",2.0,0.5,tripoli
+King Edward Point,South Georgia and the South Sandwich Islands,0,"3,219",1.0,5.0,king-edward-point
+Hamhung,North Korea,1,"2,911",2.0,3.0,hamhung
+Bamako,Mali,4,"2,596",2.0,0.25,bamako
+Pyongyang,North Korea,0,"3,527",3.0,3.0,pyongyang
+Bangui,Central African Republic,1,"2,573",2.0,1.5,bangui
+Djibouti,Djibouti,3,"3,159",1.0,2.5,djibouti
+Kota,India,5,"3,413",2.0,3.83,kota
+Allahabad,India,5,"3,377",2.0,3.95,allahabad
+Mogadishu,Somalia,2,"2,708",2.0,0.25,mogadishu
+Tangshan,China,2,"2,253",2.0,4.18,tangshan
+Ashgabat,Turkmenistan,2,"3,737",2.0,4.0,ashgabat
+N'Djamena,Chad,0,"3,964",2.0,2.5,ndjamena
+Kabul,Afghanistan,2,"1,898",2.0,0.5,kabul
