@@ -34,9 +34,9 @@ The user will be asked to:
 ## Future Work
 - Further filter out the keyword outputs by adding additional stopwords specific to job descriptions.  
 
-# Version History
+## Version History
 - **1.0**
 	- Initial Release
 
-# Authors
+## Authors
 - **Adrian Laus**
